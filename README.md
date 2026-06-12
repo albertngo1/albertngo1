@@ -12,3 +12,4 @@
 ## What I'm building
 
 - 🃏 **[mtg-draft](https://github.com/albertngo1/mtg-draft)** — MTG Arena draft coach: reads your live pack and ranks every pick on real 17Lands win-rate data
+- 🔊 **[wc3-sound-hook](https://github.com/albertngo1/wc3-sound-hook)** — plays a Warcraft III / StarCraft / Hearthstone voice line when Claude Code finishes a turn
